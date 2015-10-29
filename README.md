@@ -15,6 +15,9 @@ https://codeload.github.com/XX-net/XX-Net/zip/2.5.5
 稳定版：
 https://codeload.github.com/XX-net/XX-Net/zip/2.5.1
 
+历史版本：
+https://github.com/XX-net/XX-Net/releases
+
 
 使用方法：  
 https://github.com/XX-net/XX-Net/wiki/%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95
